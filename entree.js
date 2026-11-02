@@ -8,7 +8,7 @@ alert("Message");
 prompt("Quel est votre nom?");
 
 // Récupérer la valeur saisie par l'utilisateur
-let nom = promp("Quel est votre nom ?");
+let nom = prompt("Quel est votre nom ?");
 console.log(nom);
 
 // prompt retourne toujours un string
